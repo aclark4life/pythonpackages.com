@@ -7,4 +7,4 @@ pythonpackages.com
 - turtle
 - pyright
 - https://peps.python.org/pep-0517/
-
+- pyreverse
