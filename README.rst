@@ -7,3 +7,4 @@ pythonpackages.com
 - pyright
 - https://peps.python.org/pep-0517/
 - pyreverse
+- monads
